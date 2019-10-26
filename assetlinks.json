@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.saad.resume",
+    "sha256_cert_fingerprints":
+    ["9C:D0:C5:51:58:35:10:D6:EE:D0:D4:0F:09:78:1B:08:C4:11:BB:9D:28:AA:DD:A2:B6:2C:85:01:F8:66:92:1B"]
+  }
+}]
