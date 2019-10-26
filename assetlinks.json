@@ -6,20 +6,4 @@
     "sha256_cert_fingerprints":
     ["97:5D:FF:A5:8B:0F:B0:98:BF:7A:13:17:BA:1A:B9:B9:5E:71:63:30:BF:D0:C2:6D:90:7F:AD:08:CE:79:62:FE"]
   }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "web",
-    "site": "https://saaadr0007.github.io"
-  }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.saad.resume",
-    "sha256_cert_fingerprints":
-    ["97:5D:FF:A5:8B:0F:B0:98:BF:7A:13:17:BA:1A:B9:B9:5E:71:63:30:BF:D0:C2:6D:90:7F:AD:08:CE:79:62:FE"]
-  }
 }]
